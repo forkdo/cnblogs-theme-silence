@@ -6,7 +6,7 @@ JS 权限开通后进入博客后台「设置」页中完成如下步骤配置�
 
 ## Step1：获取文件
 
-主题必要的 CSS 和 JS 文件可以在 [已发行版本](https://github.com/forkdo/cnblogs-theme-silence/releases) 的资源压缩包中获取，[点击](https://github.com/forkdo/cnblogs-theme-silence/archive/refs/tags/v0.1.0.zip)下载最新版本。
+主题必要的 CSS 和 JS 文件可以在 [已发行版本](https://github.com/forkdo/cnblogs-theme-silence/releases) 的资源压缩包中获取，[点击](https://github.com/forkdo/cnblogs-theme-silence/archive/refs/tags/v3.0.0.zip)下载最新版本。
 
 ```
 └─dist
@@ -17,8 +17,8 @@ JS 权限开通后进入博客后台「设置」页中完成如下步骤配置�
 另外，也可以借助开源 CDN [jsDelivr](https://www.jsdelivr.com/)，以外链的方式直接获取。
 
 ```
-https://fastly.jsdelivr.net/gh/forkdo/cnblogs-theme-silence@0.1.0/dist/silence.min.css
-https://fastly.jsdelivr.net/gh/forkdo/cnblogs-theme-silence@0.1.0/dist/silence.min.js
+https://fastly.jsdelivr.net/gh/forkdo/cnblogs-theme-silence@3.0.0/dist/silence.min.css
+https://fastly.jsdelivr.net/gh/forkdo/cnblogs-theme-silence@3.0.0/dist/silence.min.js
 ```
 
 ## Step2：配置 CSS
@@ -83,7 +83,7 @@ alipay: 'https://images.cnblogs.com/cnblogs_com/forkdo/972540/o_alipay.png'
 }
 };
 &lt;/script&gt;
-&lt;script src="https://fastly.jsdelivr.net/gh/forkdo/cnblogs-theme-silence@0.1.0/dist/silence.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://fastly.jsdelivr.net/gh/forkdo/cnblogs-theme-silence@3.0.0/dist/silence.min.js"&gt;&lt;/script&gt;
 
 </pre>
 </details>

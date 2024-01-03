@@ -35,7 +35,7 @@ npm run build
 
 ## 贡献
 
-如果你在使用中发现 bug 可以通过 [Issue](https://github.com/forkdo/cnblogs-theme-silence/issues) 进行反馈，或者可以直接提 [Pull Requests](https://github.com/forkdo/cnblogs-theme-silence/pulls) 进行修复。另外，如果你在使用功能或交互体验方面有什么好的想法或其他问题，可以在 [Gitter](https://gitter.im/cnblogs-theme-silence/community) 中讨论，我会及时关注。
+如果你在使用中发现 bug 可以通过 [Issue](https://github.com/forkdo/cnblogs-theme-silence/issues) 进行反馈，或者可以直接提 [Pull Requests](https://github.com/forkdo/cnblogs-theme-silence/pulls) 进行修复。
 
 ## 案例
 
