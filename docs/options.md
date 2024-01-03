@@ -21,7 +21,7 @@
 
 ```js
 window.$silence = {
-  avatar: 'https://images.cnblogs.com/cnblogs_com/esofar/972540/o_avatar.jpg'
+  avatar: 'https://images.cnblogs.com/cnblogs_com/forkdo/972540/o_avatar.jpg'
 };
 ```
 
@@ -36,7 +36,7 @@ window.$silence = {
 
 ```js
 window.$silence = {
-  favicon: 'https://blog-static.cnblogs.com/files/esofar/favicon.ico'
+  favicon: 'https://blog-static.cnblogs.com/files/forkdo/favicon.ico'
 };
 ```
 
@@ -49,7 +49,7 @@ window.$silence = {
 
 ```js
 window.$silence = {
-  github: 'https://github.com/esofar'
+  github: 'https://github.com/forkdo'
 };
 ```
 
@@ -125,7 +125,7 @@ window.$silence = {
 window.$silence = {
     navbars: [{
         title: '标签',
-        url: 'https://www.cnblogs.com/esofar/tag/'
+        url: 'https://www.cnblogs.com/forkdo/tag/'
     }, {
         title: '朋友',
         children: [{
@@ -276,8 +276,8 @@ window.$silence = {
     sponsor: {
         enable: true,
         text: 'Buy me a cup of coffee ☕.',
-        wechat: 'https://images.cnblogs.com/cnblogs_com/esofar/972540/o_wechat.png',
-        alipay: 'https://images.cnblogs.com/cnblogs_com/esofar/972540/o_alipay.png'
+        wechat: 'https://images.cnblogs.com/cnblogs_com/forkdo/972540/o_wechat.png',
+        alipay: 'https://images.cnblogs.com/cnblogs_com/forkdo/972540/o_alipay.png'
     }
 };
 ```

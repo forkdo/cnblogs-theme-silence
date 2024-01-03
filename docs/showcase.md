@@ -1,6 +1,6 @@
 # 🎉 演示案例
 
-- [Esofar's Blog](https://www.cnblogs.com/esofar/) - .NET Core 开发工程师，博客园主题 Silence 作者。
+- [Esofar's Blog](https://www.cnblogs.com/forkdo/) - .NET Core 开发工程师，博客园主题 Silence 作者。
 
 - [静雅斋数学](https://www.cnblogs.com/wanghai0666/) - 静雅斋数学作者，专注于高中数学的教与学，用心将高中数学学习中的全要素都整合到云端。
 

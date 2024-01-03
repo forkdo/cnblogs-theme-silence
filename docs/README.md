@@ -1,5 +1,6 @@
 <div id="intro" align="center"></div>
 
+> **本主题为二次开发。原主题长时间未更新，`issues` 很多未解决。**  
 > 专 注 于 阅 读 的 博 客 园 主 题
 
 ## 特性
@@ -17,7 +18,7 @@
 
 ```
 // 克隆代码
-git clone https://github.com/esofar/cnblogs-theme-silence.git
+git clone https://github.com/forkdo/cnblogs-theme-silence.git
 
 // 进入目录
 cd cnblogs-theme-silence
@@ -34,22 +35,12 @@ npm run build
 
 ## 贡献
 
-如果你在使用中发现 bug 可以通过 [Issue](https://github.com/esofar/cnblogs-theme-silence/issues) 进行反馈，或者可以直接提 [Pull Requests](https://github.com/esofar/cnblogs-theme-silence/pulls) 进行修复。另外，如果你在使用功能或交互体验方面有什么好的想法或其他问题，可以在 [Gitter](https://gitter.im/cnblogs-theme-silence/community) 中讨论，我会及时关注。
+如果你在使用中发现 bug 可以通过 [Issue](https://github.com/forkdo/cnblogs-theme-silence/issues) 进行反馈，或者可以直接提 [Pull Requests](https://github.com/forkdo/cnblogs-theme-silence/pulls) 进行修复。另外，如果你在使用功能或交互体验方面有什么好的想法或其他问题，可以在 [Gitter](https://gitter.im/cnblogs-theme-silence/community) 中讨论，我会及时关注。
 
 ## 案例
 
-你可以在 [演示案例](https://esofar.github.io/cnblogs-theme-silence/#/showcase) 中看到一些正在使用该主题的园友博客。同时，如果若也目前也在使用该主题，并且希望展示给大家，可以在 [这里](https://github.com/esofar/cnblogs-theme-silence/issues/119) 提交申请，我会不定时更新。
-
-## 赞赏
-
-如果您觉得该主题做的还不错，想对我微小的工作一点激励，欢迎赞赏支持。
-
-<div align="center">
-
-![](./_media/sponsor.png)
-
-</div>
+你可以在 [演示案例](https://forkdo.github.io/cnblogs-theme-silence/#/showcase) 中看到一些正在使用该主题的园友博客。同时，如果若也目前也在使用该主题，并且希望展示给大家，可以在 [这里](https://github.com/forkdo/cnblogs-theme-silence/issues/new/choose) 提交申请，我会不定时更新。
 
 ## 许可
 
-MIT © 2020 esofar
+MIT © 2020 forkdo
